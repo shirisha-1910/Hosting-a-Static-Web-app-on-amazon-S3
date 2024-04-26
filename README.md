@@ -8,7 +8,7 @@ Welcome to the Static Website Hosting on Amazon S3 project! The aim of this proj
 
 ## Project Code
 You can find the code for this project in the `CFK` directory:
-- [Project Code](CFK/temp.html)
+- [Link to Portfolio Page](CFK/temp.html)
 
 ## Hosting on Amazon S3
 Follow these steps to host your static web application on Amazon S3:
